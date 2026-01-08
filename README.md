@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{aesthlu}/count.svg" alt="Visitor's Count" />
-</div>
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 <!--
 **aesthlu/aesthlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
