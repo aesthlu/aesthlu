@@ -21,13 +21,6 @@ I’m passionate about learning, building, and experimenting with code, espacial
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aesthlu&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aesthlu&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Connect With Me
 - 💼 GitHub: [github.com/aesthlu](https://github.com/aesthlu)
 - 📧 Email: lucyaopro91@gmail.com
