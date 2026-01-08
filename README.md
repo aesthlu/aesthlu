@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Luc YaO
+## Hi there 👋 I'm Luc Yao
 
 ![Profile views](https://komarev.com/ghpvc/?username=aesthlu&style=flat-square)
 
